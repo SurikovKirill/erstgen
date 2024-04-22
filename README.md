@@ -1,2 +1,2 @@
 # erstgen
-mapping from go errors to grpc statuses
+Code generator for mapping from go errors to grpc statuses
